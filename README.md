@@ -215,7 +215,7 @@ Continue with the rules for existing projects.
     }
   });
   ```
-- [ ] Add dependencies to the `functions/package.json` by running `nmp install --save`:
+- [ ] Add dependencies to the `functions/package.json` by running `npm install --save`:
   ```shell
     $ cd functions
     $ npm install --save deepcopy@^0.6.6
