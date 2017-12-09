@@ -218,7 +218,7 @@ Continue with the rules for existing projects.
 - [ ] Add dependencies to the `functions/package.json` by running `nmp install --save`:
   ```shell
     $ cd functions
-    $ npm install --save deepcopy@^0.6.6
+    $ npm install --save deepcopy@^0.6.3
     $ npm install --save ejs@^2.5.7
     $ npm install --save firebase-admin@^4.1.1
     $ npm install --save firebase-functions@^0.5.1
